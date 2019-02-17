@@ -1,1 +1,1 @@
-document.querySelector('body').style = "red";
+var box = document.querySelector('.box');
